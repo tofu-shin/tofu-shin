@@ -1,5 +1,7 @@
 # Hi, I'm Dongwook Shin 👋
 
+> Last profile refresh: **2026-03-11 08:29 KST**
+
 I build practical products with a simple rule: **ship often, improve continuously**.
 
 ## 🚀 What I'm working on
@@ -18,10 +20,6 @@ I build practical products with a simple rule: **ship often, improve continuousl
 - Better gameplay feel and production quality
 - Reliable automation over flashy automation
 - Real-world, risk-aware workflows
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tofu-shin&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofu-shin&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🌐 Links
 - Blog: https://tofu-shin.github.io
